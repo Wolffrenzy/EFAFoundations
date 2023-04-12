@@ -1,0 +1,15 @@
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\04_Strings\bin\Debug\net7.0\04_Strings.exe
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\04_Strings\bin\Debug\net7.0\04_Strings.deps.json
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\04_Strings\bin\Debug\net7.0\04_Strings.runtimeconfig.json
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\04_Strings\bin\Debug\net7.0\04_Strings.dll
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\04_Strings\bin\Debug\net7.0\04_Strings.pdb
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\04_Strings\obj\Debug\net7.0\04_Strings.csproj.AssemblyReference.cache
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\04_Strings\obj\Debug\net7.0\04_Strings.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\04_Strings\obj\Debug\net7.0\04_Strings.AssemblyInfoInputs.cache
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\04_Strings\obj\Debug\net7.0\04_Strings.AssemblyInfo.cs
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\04_Strings\obj\Debug\net7.0\04_Strings.csproj.CoreCompileInputs.cache
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\04_Strings\obj\Debug\net7.0\04_Strings.dll
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\04_Strings\obj\Debug\net7.0\refint\04_Strings.dll
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\04_Strings\obj\Debug\net7.0\04_Strings.pdb
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\04_Strings\obj\Debug\net7.0\04_Strings.genruntimeconfig.cache
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\04_Strings\obj\Debug\net7.0\ref\04_Strings.dll

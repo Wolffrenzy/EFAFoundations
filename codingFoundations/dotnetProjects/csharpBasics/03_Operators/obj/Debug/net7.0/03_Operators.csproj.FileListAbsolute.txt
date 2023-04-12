@@ -1,0 +1,15 @@
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\03_Operators\bin\Debug\net7.0\03_Operators.exe
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\03_Operators\bin\Debug\net7.0\03_Operators.deps.json
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\03_Operators\bin\Debug\net7.0\03_Operators.runtimeconfig.json
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\03_Operators\bin\Debug\net7.0\03_Operators.dll
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\03_Operators\bin\Debug\net7.0\03_Operators.pdb
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\03_Operators\obj\Debug\net7.0\03_Operators.csproj.AssemblyReference.cache
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\03_Operators\obj\Debug\net7.0\03_Operators.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\03_Operators\obj\Debug\net7.0\03_Operators.AssemblyInfoInputs.cache
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\03_Operators\obj\Debug\net7.0\03_Operators.AssemblyInfo.cs
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\03_Operators\obj\Debug\net7.0\03_Operators.csproj.CoreCompileInputs.cache
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\03_Operators\obj\Debug\net7.0\03_Operators.dll
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\03_Operators\obj\Debug\net7.0\refint\03_Operators.dll
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\03_Operators\obj\Debug\net7.0\03_Operators.pdb
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\03_Operators\obj\Debug\net7.0\03_Operators.genruntimeconfig.cache
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\03_Operators\obj\Debug\net7.0\ref\03_Operators.dll

@@ -1,0 +1,15 @@
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\05_Booleans\bin\Debug\net7.0\05_Booleans.exe
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\05_Booleans\bin\Debug\net7.0\05_Booleans.deps.json
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\05_Booleans\bin\Debug\net7.0\05_Booleans.runtimeconfig.json
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\05_Booleans\bin\Debug\net7.0\05_Booleans.dll
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\05_Booleans\bin\Debug\net7.0\05_Booleans.pdb
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\05_Booleans\obj\Debug\net7.0\05_Booleans.csproj.AssemblyReference.cache
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\05_Booleans\obj\Debug\net7.0\05_Booleans.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\05_Booleans\obj\Debug\net7.0\05_Booleans.AssemblyInfoInputs.cache
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\05_Booleans\obj\Debug\net7.0\05_Booleans.AssemblyInfo.cs
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\05_Booleans\obj\Debug\net7.0\05_Booleans.csproj.CoreCompileInputs.cache
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\05_Booleans\obj\Debug\net7.0\05_Booleans.dll
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\05_Booleans\obj\Debug\net7.0\refint\05_Booleans.dll
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\05_Booleans\obj\Debug\net7.0\05_Booleans.pdb
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\05_Booleans\obj\Debug\net7.0\05_Booleans.genruntimeconfig.cache
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\05_Booleans\obj\Debug\net7.0\ref\05_Booleans.dll

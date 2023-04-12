@@ -1,0 +1,15 @@
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\01_Variables\bin\Debug\net7.0\01_Variables.exe
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\01_Variables\bin\Debug\net7.0\01_Variables.deps.json
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\01_Variables\bin\Debug\net7.0\01_Variables.runtimeconfig.json
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\01_Variables\bin\Debug\net7.0\01_Variables.dll
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\01_Variables\bin\Debug\net7.0\01_Variables.pdb
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\01_Variables\obj\Debug\net7.0\01_Variables.csproj.AssemblyReference.cache
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\01_Variables\obj\Debug\net7.0\01_Variables.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\01_Variables\obj\Debug\net7.0\01_Variables.AssemblyInfoInputs.cache
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\01_Variables\obj\Debug\net7.0\01_Variables.AssemblyInfo.cs
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\01_Variables\obj\Debug\net7.0\01_Variables.csproj.CoreCompileInputs.cache
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\01_Variables\obj\Debug\net7.0\01_Variables.dll
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\01_Variables\obj\Debug\net7.0\refint\01_Variables.dll
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\01_Variables\obj\Debug\net7.0\01_Variables.pdb
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\01_Variables\obj\Debug\net7.0\01_Variables.genruntimeconfig.cache
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\01_Variables\obj\Debug\net7.0\ref\01_Variables.dll

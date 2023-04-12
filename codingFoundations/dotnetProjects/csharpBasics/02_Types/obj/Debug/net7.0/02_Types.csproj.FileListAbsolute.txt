@@ -1,0 +1,15 @@
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\02_Types\bin\Debug\net7.0\02_Types.exe
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\02_Types\bin\Debug\net7.0\02_Types.deps.json
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\02_Types\bin\Debug\net7.0\02_Types.runtimeconfig.json
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\02_Types\bin\Debug\net7.0\02_Types.dll
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\02_Types\bin\Debug\net7.0\02_Types.pdb
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\02_Types\obj\Debug\net7.0\02_Types.csproj.AssemblyReference.cache
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\02_Types\obj\Debug\net7.0\02_Types.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\02_Types\obj\Debug\net7.0\02_Types.AssemblyInfoInputs.cache
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\02_Types\obj\Debug\net7.0\02_Types.AssemblyInfo.cs
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\02_Types\obj\Debug\net7.0\02_Types.csproj.CoreCompileInputs.cache
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\02_Types\obj\Debug\net7.0\02_Types.dll
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\02_Types\obj\Debug\net7.0\refint\02_Types.dll
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\02_Types\obj\Debug\net7.0\02_Types.pdb
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\02_Types\obj\Debug\net7.0\02_Types.genruntimeconfig.cache
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\02_Types\obj\Debug\net7.0\ref\02_Types.dll
