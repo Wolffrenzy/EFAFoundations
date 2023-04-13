@@ -1,0 +1,15 @@
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\07_Switches\bin\Debug\net7.0\07_Switches.exe
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\07_Switches\bin\Debug\net7.0\07_Switches.deps.json
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\07_Switches\bin\Debug\net7.0\07_Switches.runtimeconfig.json
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\07_Switches\bin\Debug\net7.0\07_Switches.dll
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\07_Switches\bin\Debug\net7.0\07_Switches.pdb
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\07_Switches\obj\Debug\net7.0\07_Switches.csproj.AssemblyReference.cache
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\07_Switches\obj\Debug\net7.0\07_Switches.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\07_Switches\obj\Debug\net7.0\07_Switches.AssemblyInfoInputs.cache
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\07_Switches\obj\Debug\net7.0\07_Switches.AssemblyInfo.cs
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\07_Switches\obj\Debug\net7.0\07_Switches.csproj.CoreCompileInputs.cache
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\07_Switches\obj\Debug\net7.0\07_Switches.dll
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\07_Switches\obj\Debug\net7.0\refint\07_Switches.dll
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\07_Switches\obj\Debug\net7.0\07_Switches.pdb
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\07_Switches\obj\Debug\net7.0\07_Switches.genruntimeconfig.cache
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\07_Switches\obj\Debug\net7.0\ref\07_Switches.dll

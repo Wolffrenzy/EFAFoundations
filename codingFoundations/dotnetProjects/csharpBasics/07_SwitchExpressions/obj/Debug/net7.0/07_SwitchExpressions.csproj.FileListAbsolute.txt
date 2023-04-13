@@ -1,0 +1,15 @@
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\07_SwitchExpressions\bin\Debug\net7.0\07_SwitchExpressions.exe
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\07_SwitchExpressions\bin\Debug\net7.0\07_SwitchExpressions.deps.json
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\07_SwitchExpressions\bin\Debug\net7.0\07_SwitchExpressions.runtimeconfig.json
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\07_SwitchExpressions\bin\Debug\net7.0\07_SwitchExpressions.dll
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\07_SwitchExpressions\bin\Debug\net7.0\07_SwitchExpressions.pdb
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\07_SwitchExpressions\obj\Debug\net7.0\07_SwitchExpressions.csproj.AssemblyReference.cache
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\07_SwitchExpressions\obj\Debug\net7.0\07_SwitchExpressions.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\07_SwitchExpressions\obj\Debug\net7.0\07_SwitchExpressions.AssemblyInfoInputs.cache
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\07_SwitchExpressions\obj\Debug\net7.0\07_SwitchExpressions.AssemblyInfo.cs
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\07_SwitchExpressions\obj\Debug\net7.0\07_SwitchExpressions.csproj.CoreCompileInputs.cache
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\07_SwitchExpressions\obj\Debug\net7.0\07_SwitchExpressions.dll
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\07_SwitchExpressions\obj\Debug\net7.0\refint\07_SwitchExpressions.dll
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\07_SwitchExpressions\obj\Debug\net7.0\07_SwitchExpressions.pdb
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\07_SwitchExpressions\obj\Debug\net7.0\07_SwitchExpressions.genruntimeconfig.cache
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\07_SwitchExpressions\obj\Debug\net7.0\ref\07_SwitchExpressions.dll

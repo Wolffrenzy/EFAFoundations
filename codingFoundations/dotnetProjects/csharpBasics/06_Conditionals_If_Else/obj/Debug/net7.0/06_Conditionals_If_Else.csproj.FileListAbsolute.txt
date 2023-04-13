@@ -1,0 +1,15 @@
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\06_Conditionals_If_Else\bin\Debug\net7.0\06_Conditionals_If_Else.exe
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\06_Conditionals_If_Else\bin\Debug\net7.0\06_Conditionals_If_Else.deps.json
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\06_Conditionals_If_Else\bin\Debug\net7.0\06_Conditionals_If_Else.runtimeconfig.json
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\06_Conditionals_If_Else\bin\Debug\net7.0\06_Conditionals_If_Else.dll
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\06_Conditionals_If_Else\bin\Debug\net7.0\06_Conditionals_If_Else.pdb
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\06_Conditionals_If_Else\obj\Debug\net7.0\06_Conditionals_If_Else.csproj.AssemblyReference.cache
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\06_Conditionals_If_Else\obj\Debug\net7.0\06_Conditionals_If_Else.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\06_Conditionals_If_Else\obj\Debug\net7.0\06_Conditionals_If_Else.AssemblyInfoInputs.cache
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\06_Conditionals_If_Else\obj\Debug\net7.0\06_Conditionals_If_Else.AssemblyInfo.cs
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\06_Conditionals_If_Else\obj\Debug\net7.0\06_Conditionals_If_Else.csproj.CoreCompileInputs.cache
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\06_Conditionals_If_Else\obj\Debug\net7.0\06_Conditionals_If_Else.dll
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\06_Conditionals_If_Else\obj\Debug\net7.0\refint\06_Conditionals_If_Else.dll
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\06_Conditionals_If_Else\obj\Debug\net7.0\06_Conditionals_If_Else.pdb
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\06_Conditionals_If_Else\obj\Debug\net7.0\06_Conditionals_If_Else.genruntimeconfig.cache
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\06_Conditionals_If_Else\obj\Debug\net7.0\ref\06_Conditionals_If_Else.dll

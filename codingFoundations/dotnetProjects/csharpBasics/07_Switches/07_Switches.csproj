@@ -3,10 +3,9 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net7.0</TargetFramework>
-    <RootNamespace>_05_Booleans</RootNamespace>
+    <RootNamespace>_07_Switches</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
-    <Nullable>enable</Nullable>
-    <noWarn>CS0219</noWarn>
+    <!-- <Nullable>enable</Nullable> -->
   </PropertyGroup>
 
 </Project>

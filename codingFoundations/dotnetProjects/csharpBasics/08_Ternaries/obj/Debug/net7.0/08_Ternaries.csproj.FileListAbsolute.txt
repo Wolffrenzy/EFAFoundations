@@ -1,0 +1,15 @@
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\08_Ternaries\bin\Debug\net7.0\08_Ternaries.exe
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\08_Ternaries\bin\Debug\net7.0\08_Ternaries.deps.json
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\08_Ternaries\bin\Debug\net7.0\08_Ternaries.runtimeconfig.json
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\08_Ternaries\bin\Debug\net7.0\08_Ternaries.dll
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\08_Ternaries\bin\Debug\net7.0\08_Ternaries.pdb
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\08_Ternaries\obj\Debug\net7.0\08_Ternaries.csproj.AssemblyReference.cache
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\08_Ternaries\obj\Debug\net7.0\08_Ternaries.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\08_Ternaries\obj\Debug\net7.0\08_Ternaries.AssemblyInfoInputs.cache
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\08_Ternaries\obj\Debug\net7.0\08_Ternaries.AssemblyInfo.cs
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\08_Ternaries\obj\Debug\net7.0\08_Ternaries.csproj.CoreCompileInputs.cache
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\08_Ternaries\obj\Debug\net7.0\08_Ternaries.dll
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\08_Ternaries\obj\Debug\net7.0\refint\08_Ternaries.dll
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\08_Ternaries\obj\Debug\net7.0\08_Ternaries.pdb
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\08_Ternaries\obj\Debug\net7.0\08_Ternaries.genruntimeconfig.cache
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\08_Ternaries\obj\Debug\net7.0\ref\08_Ternaries.dll
