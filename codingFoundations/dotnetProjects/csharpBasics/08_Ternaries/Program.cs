@@ -23,6 +23,6 @@ string output = (age >= 18)? "You can vote!" : "You're too young to vote.";
 
 //but we can explore:
 //DON'T BE AFRAID TO FAIL..B/C..IT'S DEFINITELY PART OF THE PROCESS!!
-string output = (age >= 18)? "You can vote!" : (age >= 0 && age <= 10)? "Dude, you're still a child": "Man, I can't wait to vote";
+// string output = (age >= 18)? "You can vote!" : (age >= 0 && age <= 10)? "Dude, you're still a child": "Man, I can't wait to vote";
 
 System.Console.WriteLine(output);

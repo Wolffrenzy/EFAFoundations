@@ -1,0 +1,15 @@
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\07_Loops\LoopChallenges\bin\Debug\net7.0\LoopChallenges.exe
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\07_Loops\LoopChallenges\bin\Debug\net7.0\LoopChallenges.deps.json
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\07_Loops\LoopChallenges\bin\Debug\net7.0\LoopChallenges.runtimeconfig.json
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\07_Loops\LoopChallenges\bin\Debug\net7.0\LoopChallenges.dll
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\07_Loops\LoopChallenges\bin\Debug\net7.0\LoopChallenges.pdb
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\07_Loops\LoopChallenges\obj\Debug\net7.0\LoopChallenges.csproj.AssemblyReference.cache
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\07_Loops\LoopChallenges\obj\Debug\net7.0\LoopChallenges.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\07_Loops\LoopChallenges\obj\Debug\net7.0\LoopChallenges.AssemblyInfoInputs.cache
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\07_Loops\LoopChallenges\obj\Debug\net7.0\LoopChallenges.AssemblyInfo.cs
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\07_Loops\LoopChallenges\obj\Debug\net7.0\LoopChallenges.csproj.CoreCompileInputs.cache
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\07_Loops\LoopChallenges\obj\Debug\net7.0\LoopChallenges.dll
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\07_Loops\LoopChallenges\obj\Debug\net7.0\refint\LoopChallenges.dll
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\07_Loops\LoopChallenges\obj\Debug\net7.0\LoopChallenges.pdb
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\07_Loops\LoopChallenges\obj\Debug\net7.0\LoopChallenges.genruntimeconfig.cache
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\07_Loops\LoopChallenges\obj\Debug\net7.0\ref\LoopChallenges.dll

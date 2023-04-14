@@ -1,0 +1,15 @@
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\07_Loops\For\bin\Debug\net7.0\For.exe
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\07_Loops\For\bin\Debug\net7.0\For.deps.json
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\07_Loops\For\bin\Debug\net7.0\For.runtimeconfig.json
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\07_Loops\For\bin\Debug\net7.0\For.dll
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\07_Loops\For\bin\Debug\net7.0\For.pdb
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\07_Loops\For\obj\Debug\net7.0\For.csproj.AssemblyReference.cache
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\07_Loops\For\obj\Debug\net7.0\For.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\07_Loops\For\obj\Debug\net7.0\For.AssemblyInfoInputs.cache
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\07_Loops\For\obj\Debug\net7.0\For.AssemblyInfo.cs
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\07_Loops\For\obj\Debug\net7.0\For.csproj.CoreCompileInputs.cache
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\07_Loops\For\obj\Debug\net7.0\For.dll
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\07_Loops\For\obj\Debug\net7.0\refint\For.dll
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\07_Loops\For\obj\Debug\net7.0\For.pdb
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\07_Loops\For\obj\Debug\net7.0\For.genruntimeconfig.cache
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\07_Loops\For\obj\Debug\net7.0\ref\For.dll

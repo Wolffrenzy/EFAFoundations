@@ -1,0 +1,15 @@
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\09A_Collections\obj\Debug\net7.0\09A_Collections.csproj.AssemblyReference.cache
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\09A_Collections\obj\Debug\net7.0\09A_Collections.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\09A_Collections\obj\Debug\net7.0\09A_Collections.AssemblyInfoInputs.cache
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\09A_Collections\obj\Debug\net7.0\09A_Collections.AssemblyInfo.cs
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\09A_Collections\obj\Debug\net7.0\09A_Collections.csproj.CoreCompileInputs.cache
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\09A_Collections\bin\Debug\net7.0\09A_Collections.exe
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\09A_Collections\bin\Debug\net7.0\09A_Collections.deps.json
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\09A_Collections\bin\Debug\net7.0\09A_Collections.runtimeconfig.json
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\09A_Collections\bin\Debug\net7.0\09A_Collections.dll
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\09A_Collections\bin\Debug\net7.0\09A_Collections.pdb
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\09A_Collections\obj\Debug\net7.0\09A_Collections.dll
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\09A_Collections\obj\Debug\net7.0\refint\09A_Collections.dll
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\09A_Collections\obj\Debug\net7.0\09A_Collections.pdb
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\09A_Collections\obj\Debug\net7.0\09A_Collections.genruntimeconfig.cache
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\09A_Collections\obj\Debug\net7.0\ref\09A_Collections.dll
