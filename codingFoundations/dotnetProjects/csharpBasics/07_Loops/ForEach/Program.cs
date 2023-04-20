@@ -12,13 +12,13 @@
 string instructorName = "Amanda";
 
 //make an enumerable collection
-string[] instructorName = new string[] {"Michael", "Joshua", instructorName};
+// string[] instructorName = new string[] {"Michael", "Joshua", instructorName};
 
 //Let's loop
-foreach(string instructor in instructors)
-{
-    System.Console.WriteLine(instructor);
-}
+// foreach(string instructor in instructor)
+// {
+//     System.Console.WriteLine(instructor);
+// }
 
 //we want a collection of integers
 //and we want to print out if the integer is pos or neg

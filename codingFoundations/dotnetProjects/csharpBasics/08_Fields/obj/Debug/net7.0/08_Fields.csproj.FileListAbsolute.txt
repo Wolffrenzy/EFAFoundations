@@ -1,0 +1,15 @@
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\08_Fields\bin\Debug\net7.0\08_Fields.exe
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\08_Fields\bin\Debug\net7.0\08_Fields.deps.json
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\08_Fields\bin\Debug\net7.0\08_Fields.runtimeconfig.json
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\08_Fields\bin\Debug\net7.0\08_Fields.dll
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\08_Fields\bin\Debug\net7.0\08_Fields.pdb
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\08_Fields\obj\Debug\net7.0\08_Fields.csproj.AssemblyReference.cache
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\08_Fields\obj\Debug\net7.0\08_Fields.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\08_Fields\obj\Debug\net7.0\08_Fields.AssemblyInfoInputs.cache
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\08_Fields\obj\Debug\net7.0\08_Fields.AssemblyInfo.cs
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\08_Fields\obj\Debug\net7.0\08_Fields.csproj.CoreCompileInputs.cache
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\08_Fields\obj\Debug\net7.0\08_Fields.dll
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\08_Fields\obj\Debug\net7.0\refint\08_Fields.dll
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\08_Fields\obj\Debug\net7.0\08_Fields.pdb
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\08_Fields\obj\Debug\net7.0\08_Fields.genruntimeconfig.cache
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\08_Fields\obj\Debug\net7.0\ref\08_Fields.dll

@@ -9,7 +9,7 @@
 // }
 
 //Ex:
-int number = 3;
+// int number = 3;
 
 //1    //2       //3        //4
 // for(int i = 0; i < number; i++)
