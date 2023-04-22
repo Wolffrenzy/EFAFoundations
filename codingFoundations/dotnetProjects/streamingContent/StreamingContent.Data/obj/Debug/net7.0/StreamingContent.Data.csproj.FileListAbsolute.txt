@@ -1,0 +1,12 @@
+d:\workspace\EFAFoundations\codingFoundations\dotnetProjects\streamingContent\StreamingContent.Data\bin\Debug\net7.0\StreamingContent.Data.deps.json
+d:\workspace\EFAFoundations\codingFoundations\dotnetProjects\streamingContent\StreamingContent.Data\bin\Debug\net7.0\StreamingContent.Data.dll
+d:\workspace\EFAFoundations\codingFoundations\dotnetProjects\streamingContent\StreamingContent.Data\bin\Debug\net7.0\StreamingContent.Data.pdb
+d:\workspace\EFAFoundations\codingFoundations\dotnetProjects\streamingContent\StreamingContent.Data\obj\Debug\net7.0\StreamingContent.Data.csproj.AssemblyReference.cache
+d:\workspace\EFAFoundations\codingFoundations\dotnetProjects\streamingContent\StreamingContent.Data\obj\Debug\net7.0\StreamingContent.Data.GeneratedMSBuildEditorConfig.editorconfig
+d:\workspace\EFAFoundations\codingFoundations\dotnetProjects\streamingContent\StreamingContent.Data\obj\Debug\net7.0\StreamingContent.Data.AssemblyInfoInputs.cache
+d:\workspace\EFAFoundations\codingFoundations\dotnetProjects\streamingContent\StreamingContent.Data\obj\Debug\net7.0\StreamingContent.Data.AssemblyInfo.cs
+d:\workspace\EFAFoundations\codingFoundations\dotnetProjects\streamingContent\StreamingContent.Data\obj\Debug\net7.0\StreamingContent.Data.csproj.CoreCompileInputs.cache
+d:\workspace\EFAFoundations\codingFoundations\dotnetProjects\streamingContent\StreamingContent.Data\obj\Debug\net7.0\StreamingContent.Data.dll
+d:\workspace\EFAFoundations\codingFoundations\dotnetProjects\streamingContent\StreamingContent.Data\obj\Debug\net7.0\refint\StreamingContent.Data.dll
+d:\workspace\EFAFoundations\codingFoundations\dotnetProjects\streamingContent\StreamingContent.Data\obj\Debug\net7.0\StreamingContent.Data.pdb
+d:\workspace\EFAFoundations\codingFoundations\dotnetProjects\streamingContent\StreamingContent.Data\obj\Debug\net7.0\ref\StreamingContent.Data.dll

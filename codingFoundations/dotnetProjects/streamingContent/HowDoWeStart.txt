@@ -1,0 +1,13 @@
+1. Structured Layers
+    A. Data Layer -> Domain Objects (objs that our app will use)
+    B. Repository Layer -> Collection of stuff that the User can interact with
+    C. UI Layer (User Interface) -> Stuff the User interacts with
+
+2. Console is the FRONT FACING APPLICATION
+
+Data Layer & Repository Layer are just class libraries
+
+3. We need to link these guys together (Data, Repository, UI)
+    A. UI -> Data -> Repository (dotnet Reference)
+    B. Repository -> Data Layer
+    C. Data (All by itself...ground zero)
