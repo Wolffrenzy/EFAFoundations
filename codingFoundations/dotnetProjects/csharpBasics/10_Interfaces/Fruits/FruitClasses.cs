@@ -1,16 +1,14 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-
+//* HAS A RELATIONSHIP
 public class Banana : IFruit
 {
-    public Banana(){}
-    public Banana(bool IsPeeled)
+    public Banana() { }
+
+    public Banana(bool isPeeled)
     {
         IsPeeled = isPeeled;
     }
-    public string Name 
+
+    public string Name
     {
         get
         {
@@ -18,18 +16,18 @@ public class Banana : IFruit
         }
     }
 
-    public bool isPeeled {get; private set;}
+    public bool IsPeeled { get; private set; }
 
     public string Peel()
     {
-        isPeeled = true;
-        return "You peel a banana.";
+        IsPeeled = true;
+        return "You peel a Banana.";
     }
 }
 
-public class Orange : IFruit    //ctrl + .  -> implement interface
+public class Orange : IFruit //ctrl + .  -> implement interface
 {
-    public Orange(){}
+    public Orange() { }
 
     public Orange(bool isPeeled)
     {
@@ -37,30 +35,30 @@ public class Orange : IFruit    //ctrl + .  -> implement interface
     }
     public string Name => "Orange";
 
-    public bool IsPeeled => { get; private set; }
+    public bool IsPeeled { get; private set; }
 
     public string Peel()
     {
-        isPeeled = true;
-        return "You peel the orange";
+        IsPeeled = true;
+        return "You peel the Orange";
     }
 
     //can have our own method that pertains to an orange
     public string Squeeze()
     {
-        return "You squeeze the orange and juice comes out";
+        return "You squeeze the orange and juice comes out.";
     }
 }
 
 public class Grape : IFruit
 {
-    public Grape(){}
+    public Grape() { }
     public string Name => "Grape";
 
     public bool IsPeeled => false;
 
     public string Peel()
     {
-        return "Who peels grapes?";
+        return "Who Peels grapes?";
     }
 }

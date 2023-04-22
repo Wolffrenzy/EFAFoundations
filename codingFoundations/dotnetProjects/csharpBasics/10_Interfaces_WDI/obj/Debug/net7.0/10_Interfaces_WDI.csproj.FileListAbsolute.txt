@@ -1,0 +1,15 @@
+d:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\10_Interfaces_WDI\bin\Debug\net7.0\10_Interfaces_WDI.exe
+d:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\10_Interfaces_WDI\bin\Debug\net7.0\10_Interfaces_WDI.deps.json
+d:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\10_Interfaces_WDI\bin\Debug\net7.0\10_Interfaces_WDI.runtimeconfig.json
+d:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\10_Interfaces_WDI\bin\Debug\net7.0\10_Interfaces_WDI.dll
+d:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\10_Interfaces_WDI\bin\Debug\net7.0\10_Interfaces_WDI.pdb
+d:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\10_Interfaces_WDI\obj\Debug\net7.0\10_Interfaces_WDI.csproj.AssemblyReference.cache
+d:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\10_Interfaces_WDI\obj\Debug\net7.0\10_Interfaces_WDI.GeneratedMSBuildEditorConfig.editorconfig
+d:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\10_Interfaces_WDI\obj\Debug\net7.0\10_Interfaces_WDI.AssemblyInfoInputs.cache
+d:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\10_Interfaces_WDI\obj\Debug\net7.0\10_Interfaces_WDI.AssemblyInfo.cs
+d:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\10_Interfaces_WDI\obj\Debug\net7.0\10_Interfaces_WDI.csproj.CoreCompileInputs.cache
+d:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\10_Interfaces_WDI\obj\Debug\net7.0\10_Interfaces_WDI.dll
+d:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\10_Interfaces_WDI\obj\Debug\net7.0\refint\10_Interfaces_WDI.dll
+d:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\10_Interfaces_WDI\obj\Debug\net7.0\10_Interfaces_WDI.pdb
+d:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\10_Interfaces_WDI\obj\Debug\net7.0\10_Interfaces_WDI.genruntimeconfig.cache
+d:\workspace\EFAFoundations\codingFoundations\dotnetProjects\csharpBasics\10_Interfaces_WDI\obj\Debug\net7.0\ref\10_Interfaces_WDI.dll
