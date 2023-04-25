@@ -55,6 +55,7 @@ public class StreamingContentRepository
             oldContent.Description = newContent.Description;
             oldContent.StarRating = newContent.StarRating;
             oldContent.TypeOfGenre = newContent.TypeOfGenre;
+            oldContent.MaturityRating = newContent.MaturityRating;
 
             return true;
         }

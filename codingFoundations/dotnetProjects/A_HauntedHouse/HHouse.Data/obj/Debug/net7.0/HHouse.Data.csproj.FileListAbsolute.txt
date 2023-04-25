@@ -1,0 +1,12 @@
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\A_HauntedHouse\HHouse.Data\bin\Debug\net7.0\HHouse.Data.deps.json
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\A_HauntedHouse\HHouse.Data\bin\Debug\net7.0\HHouse.Data.dll
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\A_HauntedHouse\HHouse.Data\bin\Debug\net7.0\HHouse.Data.pdb
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\A_HauntedHouse\HHouse.Data\obj\Debug\net7.0\HHouse.Data.csproj.AssemblyReference.cache
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\A_HauntedHouse\HHouse.Data\obj\Debug\net7.0\HHouse.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\A_HauntedHouse\HHouse.Data\obj\Debug\net7.0\HHouse.Data.AssemblyInfoInputs.cache
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\A_HauntedHouse\HHouse.Data\obj\Debug\net7.0\HHouse.Data.AssemblyInfo.cs
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\A_HauntedHouse\HHouse.Data\obj\Debug\net7.0\HHouse.Data.csproj.CoreCompileInputs.cache
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\A_HauntedHouse\HHouse.Data\obj\Debug\net7.0\HHouse.Data.dll
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\A_HauntedHouse\HHouse.Data\obj\Debug\net7.0\refint\HHouse.Data.dll
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\A_HauntedHouse\HHouse.Data\obj\Debug\net7.0\HHouse.Data.pdb
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\A_HauntedHouse\HHouse.Data\obj\Debug\net7.0\ref\HHouse.Data.dll

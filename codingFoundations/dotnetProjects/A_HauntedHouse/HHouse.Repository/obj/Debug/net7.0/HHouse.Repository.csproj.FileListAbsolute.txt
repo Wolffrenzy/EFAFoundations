@@ -1,0 +1,15 @@
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\A_HauntedHouse\HHouse.Repository\bin\Debug\net7.0\HHouse.Repository.deps.json
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\A_HauntedHouse\HHouse.Repository\bin\Debug\net7.0\HHouse.Repository.dll
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\A_HauntedHouse\HHouse.Repository\bin\Debug\net7.0\HHouse.Repository.pdb
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\A_HauntedHouse\HHouse.Repository\bin\Debug\net7.0\HHouse.Data.dll
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\A_HauntedHouse\HHouse.Repository\bin\Debug\net7.0\HHouse.Data.pdb
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\A_HauntedHouse\HHouse.Repository\obj\Debug\net7.0\HHouse.Repository.csproj.AssemblyReference.cache
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\A_HauntedHouse\HHouse.Repository\obj\Debug\net7.0\HHouse.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\A_HauntedHouse\HHouse.Repository\obj\Debug\net7.0\HHouse.Repository.AssemblyInfoInputs.cache
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\A_HauntedHouse\HHouse.Repository\obj\Debug\net7.0\HHouse.Repository.AssemblyInfo.cs
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\A_HauntedHouse\HHouse.Repository\obj\Debug\net7.0\HHouse.Repository.csproj.CoreCompileInputs.cache
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\A_HauntedHouse\HHouse.Repository\obj\Debug\net7.0\HHouse.Repository.csproj.CopyComplete
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\A_HauntedHouse\HHouse.Repository\obj\Debug\net7.0\HHouse.Repository.dll
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\A_HauntedHouse\HHouse.Repository\obj\Debug\net7.0\refint\HHouse.Repository.dll
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\A_HauntedHouse\HHouse.Repository\obj\Debug\net7.0\HHouse.Repository.pdb
+D:\workspace\EFAFoundations\codingFoundations\dotnetProjects\A_HauntedHouse\HHouse.Repository\obj\Debug\net7.0\ref\HHouse.Repository.dll
